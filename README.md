@@ -24,16 +24,3 @@ O Aplicativo de Cadastro em Python foi desenvolvido para demonstrar como constru
 - Adicionar o nome dos produtos (Notebook, Desktop, Monitor, Periférico).
 - Listagem dos produtos.
   
-# Instalação
-
-# Requisitos
-
-- Python 3.x instalado no seu sistema.
-- Dependências do projeto listadas no arquivo `requirements.txt`.
-
-### Passos para Instalação
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/app-cadastro-python.git
