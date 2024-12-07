@@ -8,11 +8,6 @@ Este projeto é um aplicativo simples de cadastro de usuários, desenvolvido em 
 
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Estrutura de Arquivos](#estrutura-de-arquivos)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 # Sobre
 
